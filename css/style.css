@@ -1,0 +1,59 @@
+              /*head*/
+.cont{
+  display:table;
+  width: 100%;
+  margin: 0;
+  padding: 60px 0 0 60px;
+  background-color: black;
+
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li{
+  margin: 0;
+  padding: 0 50px;
+}
+.zxc{
+  display: inline;
+}
+.home{
+  width: 80px;
+  height: 80px;
+}
+li{
+  display: inline;
+  color: blueviolet;
+}
+a{
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+                 /*body*/
+body{
+  background-image: url('1.gif');
+  background-size: 100%;
+  overflow:hidden;  
+}
+.body-cont{
+  text-decoration: none;
+  color: gray;
+  background-color: transparent;
+  margin: 0 5%;
+  padding: 0 60px;
+}
+
+
+.abobus{
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+.Ford-of-Europe{
+  font-size: 80px;
+  color: white;
+}
+
+
